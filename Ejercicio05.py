@@ -1,4 +1,4 @@
-# Laboratorio N° 22_Ejercicio 04
+# Laboratorio N° 22_Ejercicio 05
 # Autor: Andrea Camargo
 # Colaboró:
 # Tiempo: 15 minutos
